@@ -1,0 +1,7 @@
+Hiiiiiiiiiii
+This is Archana
+Hope u r doing well
+We r working readline module
+it reads the data line by line
+this is to compress only the content inside the file
+not the file

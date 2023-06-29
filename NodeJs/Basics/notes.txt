@@ -1,0 +1,31 @@
+in frontend technology if i want to call the backend server proxy is used
+fecth() is used for pending
+ful fill then()
+catch()  error  
+message is system property belongs to promises
+
+
+nodejs features
+
+node js is a single threaded
+cross platform
+asynchronous
+non blocking
+highly scalable
+open source gpl's/ gnu's
+
+
+node modules
+
+assert - expectional handling
+buffer - memory allocation ascii 8bits
+crypto - encrypt/ decrypt
+cluster- threading
+Dgram - socket communication. runs with UDP, protocals IP v4 and IP v6
+net- won't uses Udp only with ip v6
+dns- Url
+os- 
+vm- virtual memory
+zlib0 zip/unzip the content
+util - template
+fs -file system read write append delete opertations 
